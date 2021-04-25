@@ -185,6 +185,6 @@ case class LetStar(defs: List[(String, Exp)], body: Exp) extends Exp
 /**
 Your task: Implement the missing parts of subst and eval to support LetStar.
 (Again, only change the parts currently filled with an error!)
-Then eliminate LetStar by defining it as syntactic sugar.
+Then eliminate LetStar by defining it as syntactic sugar.Aa
 */
 }
